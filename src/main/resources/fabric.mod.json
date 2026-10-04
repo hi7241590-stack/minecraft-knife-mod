@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "knifevisuals",
+  "version": "${version}",
+  "name": "Knife Visuals",
+  "description": "Visual-only knife style system for Diamond and Netherite swords.",
+  "authors": [
+    "Copilot"
+  ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "com.copilot.knifevisuals.KnifeVisualsMod"
+    ],
+    "client": [
+      "com.copilot.knifevisuals.KnifeVisualsClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21"
+  }
+}

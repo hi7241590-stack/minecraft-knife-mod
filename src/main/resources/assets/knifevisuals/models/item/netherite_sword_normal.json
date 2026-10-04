@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  },
+  "overrides": [
+    { "predicate": { "knifevisuals:style": 0.0 }, "model": "knifevisuals:item/netherite_sword_normal" },
+    { "predicate": { "knifevisuals:style": 1.0 }, "model": "knifevisuals:item/netherite_sword_karambit" },
+    { "predicate": { "knifevisuals:style": 2.0 }, "model": "knifevisuals:item/netherite_sword_butterfly" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "language": "en_us",
+  "translations": {
+    "key.category.knifevisuals": "Knife Visuals",
+    "key.knifevisuals.open_gui": "Open knife GUI",
+    "key.knifevisuals.inspect": "Toggle inspect pose",
+    "text.knifevisuals.enabled": "Enabled",
+    "text.knifevisuals.disabled": "Disabled",
+    "text.knifevisuals.style.normal": "Normal Sword",
+    "text.knifevisuals.style.karambit": "Karambit",
+    "text.knifevisuals.style.butterfly": "Butterfly Knife",
+    "text.knifevisuals.inspect.on": "Inspect pose enabled",
+    "text.knifevisuals.inspect.off": "Inspect pose disabled"
+  }
+}
